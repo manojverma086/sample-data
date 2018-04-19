@@ -1,44 +1,44 @@
-{
-  "jobs": [
+[
     { 
      "id": 1, 
-     "title": "Job 1",
-      "status" : {
-       "HASH_GDPR_REQUEST": "RUNNING",
-       "PURGE_UCS_CONTACT": "STOPPED",
-       "PURGE_OUTBOUND": "STOPPED",
-       "COPY_OUTBOUND_CALLINGLIST": "STOPPED",
-       "PURGE_GIM_DATA": "STOPPED"
-     }
+     "name": "HASH_GDPR_REQUEST",
+     "status" : "Running",
+      "last_run": 1524141311099,
+      "next_run": 1524141311099,
+      "created": 1524141311099
     },
-    { 
+   { 
      "id": 2, 
-     "title": "Job 2",
-      "status" : {
-       "HASH_GDPR_REQUEST": "RUNNING",
-       "PURGE_UCS_CONTACT": "STOPPED",
-       "PURGE_OUTBOUND": "STOPPED",
-       "COPY_OUTBOUND_CALLINGLIST": "STOPPED",
-       "PURGE_GIM_DATA": "STOPPED"
-     }
+     "name": "PURGE_UCS_CONTACT",
+     "status" : "Running",
+      "last_run": 1524141311099,
+      "next_run": 1524141311099,
+      "created": 1524141311099
     },
-    { 
+   { 
      "id": 3, 
-     "title": "Job 3",
-      "status" : {
-       "HASH_GDPR_REQUEST": "RUNNING",
-       "PURGE_UCS_CONTACT": "STOPPED",
-       "PURGE_OUTBOUND": "STOPPED",
-       "COPY_OUTBOUND_CALLINGLIST": "STOPPED",
-       "PURGE_GIM_DATA": "STOPPED"
-     }
+     "name": "PURGE_OUTBOUND",
+     "status" : "Running",
+      "last_run": 1524141311099,
+      "next_run": 1524141311099,
+      "created": 1524141311099
+    },
+   { 
+     "id": 4, 
+     "name": "COPY_OUTBOUND_CALLINGLIST",
+     "status" : "Running",
+      "last_run": 1524141311099,
+      "next_run": 1524141311099,
+      "created": 1524141311099
+    },
+   { 
+     "id": 5, 
+     "name": "PURGE_GIM_DATA",
+     "status" : "Running",
+      "last_run": 1524141311099,
+      "next_run": 1524141311099,
+      "created": 1524141311099
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  
+ 
+]
