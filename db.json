@@ -48,76 +48,6 @@
          "code":"GL"
       },
       {
-         "name":"Grenada",
-         "dial_code":"+1473",
-         "code":"GD"
-      },
-      {
-         "name":"Guadeloupe",
-         "dial_code":"+590",
-         "code":"GP"
-      },
-      {
-         "name":"Guam",
-         "dial_code":"+1671",
-         "code":"GU"
-      },
-      {
-         "name":"Guatemala",
-         "dial_code":"+502",
-         "code":"GT"
-      },
-      {
-         "name":"Guernsey",
-         "dial_code":"+44",
-         "code":"GG"
-      },
-      {
-         "name":"Guinea",
-         "dial_code":"+224",
-         "code":"GN"
-      },
-      {
-         "name":"Guinea-Bissau",
-         "dial_code":"+245",
-         "code":"GW"
-      },
-      {
-         "name":"Guyana",
-         "dial_code":"+592",
-         "code":"GY"
-      },
-      {
-         "name":"Haiti",
-         "dial_code":"+509",
-         "code":"HT"
-      },
-      {
-         "name":"Heard Island and Mcdonald Islands",
-         "dial_code":"+0",
-         "code":"HM"
-      },
-      {
-         "name":"Holy See (Vatican City State)",
-         "dial_code":"+379",
-         "code":"VA"
-      },
-      {
-         "name":"Honduras",
-         "dial_code":"+504",
-         "code":"HN"
-      },
-      {
-         "name":"Hong Kong",
-         "dial_code":"+852",
-         "code":"HK"
-      },
-      {
-         "name":"Hungary",
-         "dial_code":"+36",
-         "code":"HU"
-      },
-      {
          "name":"Iceland",
          "dial_code":"+354",
          "code":"IS"
@@ -131,11 +61,6 @@
          "name":"Indonesia",
          "dial_code":"+62",
          "code":"ID"
-      },
-      {
-         "name":"Iran, Islamic Republic of Persian Gulf",
-         "dial_code":"+98",
-         "code":"IR"
       },
       {
          "name":"Iraq",
@@ -177,50 +102,6 @@
          "dial_code":"+44",
          "code":"JE"
       },
-      {
-         "name":"Jordan",
-         "dial_code":"+962",
-         "code":"JO"
-      },
-      {
-         "name":"Kazakhstan",
-         "dial_code":"+7",
-         "code":"KZ"
-      },
-      {
-         "name":"Kenya",
-         "dial_code":"+254",
-         "code":"KE"
-      },
-      {
-         "name":"Kiribati",
-         "dial_code":"+686",
-         "code":"KI"
-      },
-      {
-         "name":"Korea, Republic of South Korea",
-         "dial_code":"+82",
-         "code":"KR"
-      },
-      {
-         "name":"Kosovo",
-         "dial_code":"+383",
-         "code":"XK"
-      },
-      {
-         "name":"Kuwait",
-         "dial_code":"+965",
-         "code":"KW"
-      },
-      {
-         "name":"Kyrgyzstan",
-         "dial_code":"+996",
-         "code":"KG"
-      },
-      {
-         "name":"Laos",
-         "dial_code":"+856",
-         "code":"LA"
-      }
+      
    ]
 }
