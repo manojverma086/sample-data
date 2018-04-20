@@ -108,9 +108,18 @@
          "number": 9599134582,
          "country_code": "+91",
          "available_db":[
-            { "inbound": true },
-            { "outbound": false },
-            { "genesys": false }
+            { 
+               "name": "inbound",
+               "available": true 
+            },
+            {
+               "name": "outbound",
+               "available": false 
+            },
+            { 
+               "name": "genesys",
+               "available": false 
+            }
          ]
       }
    ]
