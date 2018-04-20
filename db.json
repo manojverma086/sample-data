@@ -102,5 +102,16 @@
          "dial_code":"+44",
          "code":"JE"
       }
+   ],
+   "phones": [
+      {
+         "number": 9599134582,
+         "country_code": "+91",
+         "available_db":[
+            { "inbound": true },
+            { "outbound": false },
+            { "genesys": false }
+         ]
+      }
    ]
 }
