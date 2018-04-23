@@ -105,20 +105,19 @@
    ],
    "phones": [
       {
-         "number": 9599134582,
-         "country_code": "+91",
-         "available_db":[
+         "phone_number": 9599134582,
+         "db_result":[
             { 
-               "name": "inbound",
-               "available": true 
+               "db": "inbound",
+               "result": true 
             },
             {
-               "name": "outbound",
-               "available": false 
+               "db": "outbound",
+               "result": false 
             },
             { 
-               "name": "genesys",
-               "available": false 
+               "db": "genesys",
+               "result": false 
             }
          ]
       }
