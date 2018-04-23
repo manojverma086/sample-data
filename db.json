@@ -103,7 +103,7 @@
          "code":"JE"
       }
    ],
-   "phones": [
+   "phones": 
       {
          "phone_number": 9599134582,
          "db_result":[
@@ -121,5 +121,4 @@
             }
          ]
       }
-   ]
 }
