@@ -2,7 +2,7 @@
    "jobs":[
       {
          "name":"HASH_GDPR_REQUEST",
-         "status":"Running",
+         "status":"Stopped",
          "last_run":1524141311099
       },
       {
