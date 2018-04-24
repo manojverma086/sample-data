@@ -1,44 +1,29 @@
 {
    "jobs":[
       {
-         "id":1,
          "name":"HASH_GDPR_REQUEST",
          "status":"Running",
-         "last_run":1524141311099,
-         "next_run":1524141311099,
-         "created":1524141311099
+         "last_run":1524141311099
       },
       {
-         "id":2,
          "name":"PURGE_UCS_CONTACT",
          "status":"Running",
-         "last_run":1524141311099,
-         "next_run":1524141311099,
-         "created":1524141311099
+         "last_run":1524141311099
       },
       {
-         "id":3,
          "name":"PURGE_OUTBOUND",
          "status":"Running",
-         "last_run":1524141311099,
-         "next_run":1524141311099,
-         "created":1524141311099
+         "last_run":1524141311099
       },
       {
-         "id":4,
          "name":"COPY_OUTBOUND_CALLINGLIST",
          "status":"Running",
-         "last_run":1524141311099,
-         "next_run":1524141311099,
-         "created":1524141311099
+         "last_run":1524141311099
       },
       {
-         "id":5,
          "name":"PURGE_GIM_DATA",
          "status":"Running",
-         "last_run":1524141311099,
-         "next_run":1524141311099,
-         "created":1524141311099
+         "last_run":1524141311099
       }
    ],
    "country_codes": [
