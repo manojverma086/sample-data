@@ -1,94 +1,41 @@
 {
    "jobs":[
       {
-         "name":"HASH_GDPR_REQUEST",
-         "status":"Stopped",
-         "last_run":1524141311099
+         "update_time": "2018-05-03 19:33:51.645",
+        "user_name": "SYSTEM",
+        "scheduled_action": "COPY_OUTBOUND_CALLINGLIST",
+        "task_start_time": "2018-05-03 19:33:51.645",
+        "status": "RUNNING"
+      },
+      {"update_time": "2018-05-03 19:33:51.645",
+        "user_name": "SYSTEM",
+        "scheduled_action": "COPY_OUTBOUND_CALLINGLIST",
+        "task_start_time": "2018-05-03 19:33:51.645",
+        "status": "RUNNING"
       },
       {
-         "name":"PURGE_UCS_CONTACT",
-         "status":"Running",
-         "last_run":1524141311099
+         "update_time": "2018-05-03 19:33:51.645",
+        "user_name": "SYSTEM",
+        "scheduled_action": "COPY_OUTBOUND_CALLINGLIST",
+        "task_start_time": "2018-05-03 19:33:51.645",
+        "status": "RUNNING"
       },
       {
-         "name":"PURGE_OUTBOUND",
-         "status":"Running",
-         "last_run":1524141311099
+         "update_time": "2018-05-03 19:33:51.645",
+        "user_name": "SYSTEM",
+        "scheduled_action": "COPY_OUTBOUND_CALLINGLIST",
+        "task_start_time": "2018-05-03 19:33:51.645",
+        "status": "RUNNING"
       },
       {
-         "name":"COPY_OUTBOUND_CALLINGLIST",
-         "status":"Running",
-         "last_run":1524141311099
-      },
-      {
-         "name":"PURGE_GIM_DATA",
-         "status":"Running",
-         "last_run":1524141311099
+         "update_time": "2018-05-03 19:33:51.645",
+        "user_name": "SYSTEM",
+        "scheduled_action": "COPY_OUTBOUND_CALLINGLIST",
+        "task_start_time": "2018-05-03 19:33:51.645",
+        "status": "RUNNING"
       }
    ],
-   "country_codes": [
-      {
-         "name":"Greenland",
-         "dial_code":"+299",
-         "code":"GL"
-      },
-      {
-         "name":"Iceland",
-         "dial_code":"+354",
-         "code":"IS"
-      },
-      {
-         "name":"India",
-         "dial_code":"+91",
-         "code":"IN"
-      },
-      {
-         "name":"Indonesia",
-         "dial_code":"+62",
-         "code":"ID"
-      },
-      {
-         "name":"Iraq",
-         "dial_code":"+964",
-         "code":"IQ"
-      },
-      {
-         "name":"Ireland",
-         "dial_code":"+353",
-         "code":"IE"
-      },
-      {
-         "name":"Isle of Man",
-         "dial_code":"+44",
-         "code":"IM"
-      },
-      {
-         "name":"Israel",
-         "dial_code":"+972",
-         "code":"IL"
-      },
-      {
-         "name":"Italy",
-         "dial_code":"+39",
-         "code":"IT"
-      },
-      {
-         "name":"Jamaica",
-         "dial_code":"+1876",
-         "code":"JM"
-      },
-      {
-         "name":"Japan",
-         "dial_code":"+81",
-         "code":"JP"
-      },
-      {
-         "name":"Jersey",
-         "dial_code":"+44",
-         "code":"JE"
-      }
-   ],
-   "phones": 
+   "phones/9599134582": 
       {
          "phone_number": 9599134582,
          "db_result":[
@@ -105,5 +52,10 @@
                "result": false 
             }
          ]
-      }
+      },
+   "ctiapp/auth": {
+    "role": "admin",
+    "status": "1",
+    "authentication": "ok"
+   }
 }
